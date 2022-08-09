@@ -22,6 +22,7 @@
     "illuminate/support": "^7.0 || ^8.0 || ^9.0"
   },
   "require-dev": {
+    "friendsofphp/php-cs-fixer": "^3.9",
     "orchestra/testbench": "^6.24.1",
     "phpunit/phpunit": "^9.5.21"
   },
